@@ -2,4 +2,5 @@ Javier Rosales
 hola mundo
 Juan Perez
 esto es un cambio nuevo
-usuario 1234
+Password 1234567890
+correo @gmail.com 
