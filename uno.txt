@@ -1,6 +1,4 @@
-Javier Rosales
-hola mundo
-Juan Perez
-esto es un cambio nuevo
+Usuario Correo@gmail.com
 Password 1234567890
-correo @gmail.com 
+Nombre Javier
+Apellido Rosales
